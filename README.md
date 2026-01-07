@@ -12,8 +12,7 @@ A modern, responsive web application developed to showcase my journey, skills, a
 
 ## 🖼️ Preview
 
-*(Add a screenshot or GIF of your application here)*
-![Portfolio Preview](./public/assets/preview.png)
+![Portfolio Preview](./public/preview.png)
 
 ## ✨ Key Features
 
